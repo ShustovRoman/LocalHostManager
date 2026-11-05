@@ -1,0 +1,25 @@
+## Build and output folders
+bin/
+obj/
+Publish/
+*.exe
+*.dll
+*.pdb
+
+## Local configuration & logs
+lang.cfg
+crash.log
+*.log
+
+## Visual Studio & Rider caches
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
